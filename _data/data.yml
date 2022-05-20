@@ -13,50 +13,47 @@ sidebar:
 
     # Sidebar links
     email: admin@alfredefer.fr
-    phone: 012 345 6789
-    citizenship:
+    #phone: 012 345 6789
+    #citizenship:
     website: alfredefer.Fr #do not add http://
     linkedin: AlfredoDeFerrari
     #xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    github: alfredefer
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    twitter: '@alfredefer'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: French
-        level: Professional
+        level: Native
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Guitar & other string instruments
         link:
 
-      - item: Snowboarding
-        link:
+    #  - item: Snowboarding
+    #    link:
 
-      - item: Cooking
+      - item: Tinker on my mac
         link:
 
 career-profile:
-    title: Career Profile
+    title: DevOps Engineer
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      After venturing during my studies in agronomy with socio-economical studies,
+      I'm now a DevOps Engineer.
+      
 education:
     - degree: MSc in Computer Science
       university: University of London
