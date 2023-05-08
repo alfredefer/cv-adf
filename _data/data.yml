@@ -9,20 +9,20 @@ sidebar:
     # Profile information
     name: Alfredo De Ferrari
     tagline: DevOps Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_02.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: admin@alfredefer.fr
+    email: alfredo@deferrari.io
     #phone: 012 345 6789
     #citizenship:
-    website: alfredefer.fr(WIP) #do not add http://
+    #website: alfredefer.fr(WIP) #do not add http://
     linkedin: alfredo-de-ferrari-b6713a17
     #xing: alandoe
     github: alfredefer
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
-    twitter: '@alfredefer'
+    #twitter: '@alfredefer'
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,14 +38,20 @@ sidebar:
       - idiom: Spanish
         level: Native
 
+      - idiom: German
+        level: Intermediate
+
     interests:
       - item: Guitar & other string instruments
         link: https://alfre.bandcamp.com
 
+      - item: Music with digital audio worstation (Logic Pro x)
+        link: https://on.soundcloud.com/FZcR2
+
     #  - item: Snowboarding
     #    link:
 
-      - item: Tinker on my mac
+      - item: Tinker on my Mac / PC
         link:
 
 career-profile:
@@ -55,16 +61,17 @@ career-profile:
       I'm now a DevOps Engineer working in Paris, France.
 
 education:
-    - degree: Agronomist
-      university: ENSAIA, Nancy
-      time: 2004 - 2008
-      details: |
-        Specialized in rural development and socio-economical studies.
     - degree: Software Engineer
       university: Paris XIII university
       time: 2009 - 2011
       details: |
         Java development and systems engineering.
+    - degree: Agronomist
+      university: ENSAIA, Nancy
+      time: 2004 - 2008
+      details: |
+        Specialized in rural development and socio-economical studies.
+
 experiences:
     - role:  DevOps Engineer
       time: 2022 - Present
