@@ -149,18 +149,6 @@ skills:
       - name: Business development
         level: 50%
 
-projects:
-    title: Music Projects
-    intro: >
-      I'm also a guitar player and composer.
-    assignments:
-      - title: Alfre
-        link: "https://alfre.bandcamp.com"
-        tagline: "My bandcamp for personal compositions."
-
-      - title: Miscellaneous
-        link: "https://on.soundcloud.com/FZcR2"
-        tagline: "My old not yet released stuff on soundcloud."
 
       # - title: NinaTambo
       #   link: "https://on.soundcloud.com/er9rA"
